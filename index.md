@@ -1,5 +1,5 @@
 
-<img src="https://www.gustaveroussy.fr/sites/all/themes/gustave_roussy/logo.png" alt="logo GR">
+<img src="https://imagineformargo.org/wp-content/themes/imagineformargo-association/images//logo-imagine-for-margo-desktop.svg" alt="logo margo" width="200px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Inserm.svg" alt="logo INSERM" width="200px">
 <img src="https://www.ligue-cancer.net/sites/all/themes/ligue/logo.png" alt="logo LCC">
 <img src="https://hal.archives-ouvertes.fr/UNIV-PARIS-SACLAY/public/logo_UP_saclay_final.png" alt="logo UPSC" width="150px">
